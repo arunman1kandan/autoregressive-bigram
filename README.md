@@ -7,7 +7,7 @@ It builds a transition matrix from character to character, then **samples new na
 
 ## 📁 Project Structure
 
-- `bigram_name_generator.py` — Main script that learns from data and generates names.
+- `main.py` — Main script that learns from data and generates names.
 - `names.txt` — A text file containing training names, one per line.
 - `README.md` — You're reading it.
 

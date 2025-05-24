@@ -142,7 +142,7 @@ pip install torch matplotlib
 2. Run the script:
 
 ```bash
-python bigram_name_generator.py
+python main.py
 ```
 
 3. It will print randomly generated names based on your training data.
